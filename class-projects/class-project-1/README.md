@@ -1,3 +1,3 @@
-# [Class Project Title]
+# [Zadatak 1]
 
-Provide a short description of your results, if applicable.
+
