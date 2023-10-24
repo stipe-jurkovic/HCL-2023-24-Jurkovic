@@ -1,3 +1,5 @@
-# [Class Project Title]
+# User personas and information architecture 
 
-Provide a short description of your results, if applicable.
+# Personas
+
+![First Persona](misc\AIphotos\thispersondoesnotexist.jpg)
