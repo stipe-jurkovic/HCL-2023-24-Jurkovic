@@ -105,6 +105,7 @@
 
 
 # Sitemap
+Prompt("Based on the combined categories propose a detailed sitemap for my web application for selling webpages.")
 - Home
   - Featured Templates
   - New Arrivals
