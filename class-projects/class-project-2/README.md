@@ -103,6 +103,8 @@
 - Tutorials and Guides
 - Customer Reviews and Testimonials
 
+
+# Sitemap
 - Home
   - Featured Templates
   - New Arrivals
