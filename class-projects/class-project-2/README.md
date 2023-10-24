@@ -6,7 +6,7 @@
 
 - **Name**: Alex Johnson
 - **Age**: 27
-- **Gender**: Non-binary
+- **Gender**: Female
 - **Location**: San Francisco, USA
 - **Occupation**: Freelance Web Developer
 - **Language**: Primarily English, proficient in HTML/CSS, JavaScript
