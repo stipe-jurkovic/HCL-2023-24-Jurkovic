@@ -79,3 +79,27 @@
   - Exploring and integrating web technologies while staying true to her craft.
 - **Tech Stack**:
   - Basic understanding of HTML and CSS, with a budding interest in JavaScript.
+
+# Information Architecture for Webpage Selling Website
+
+## Template Types
+- Portfolio Templates
+- E-commerce Templates
+- Blog Templates
+- Landing Page Templates
+- Business Templates
+- Personal Website Templates
+- Creative Templates
+- Corporate Templates
+- One-Page Templates
+- Photography Templates
+
+## Advanced Features
+- Responsive Design
+- Customization Options
+- Code Access
+
+## Resources and Support
+- Tutorials and Guides
+- Customer Reviews and Testimonials
+ 
