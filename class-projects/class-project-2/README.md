@@ -2,4 +2,4 @@
 
 # Personas
 
-![First Persona](misc/AIphotos/thispersondoesnotexist.jpg)
+![First Persona](https://github.com/stipe-jurkovic/HCL-2023-24-Jurkovic/blob/main/misc/AIphotos/thispersondoesnotexist.jpg)
