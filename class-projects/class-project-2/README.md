@@ -51,6 +51,7 @@
   - Occasionally seeks design inspiration and template solutions to meet client demands.
 - **Tech Stack**:
   - Proficient in HTML, CSS, JavaScript, and well-versed in popular frameworks.
+
 ![Third Persona](https://github.com/stipe-jurkovic/HCL-2023-24-Jurkovic/blob/main/misc/AIphotos/thispersondoesnotexist2.jpg)
 
 - **Name**: Jane Rodriguez
