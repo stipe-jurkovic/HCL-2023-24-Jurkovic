@@ -2,4 +2,4 @@
 
 # Personas
 
-![First Persona](misc\AIphotos\thispersondoesnotexist.jpg)
+![First Persona](misc/AIphotos/thispersondoesnotexist.jpg)
