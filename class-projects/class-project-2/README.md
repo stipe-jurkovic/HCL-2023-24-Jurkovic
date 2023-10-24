@@ -2,7 +2,7 @@
 
 # Personas
 
-# Prompt 
+ **Prompt** 
 (Develop a user persona for a new web application that sells webpages.)
 
 ![First Persona](https://github.com/stipe-jurkovic/HCL-2023-24-Jurkovic/blob/main/misc/AIphotos/thispersondoesnotexist.jpg)
