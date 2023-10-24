@@ -102,4 +102,71 @@
 ## Resources and Support
 - Tutorials and Guides
 - Customer Reviews and Testimonials
+
+- Home
+  - Featured Templates
+  - New Arrivals
+  - Best Sellers
+
+- Templates
+  - Portfolio Templates
+    - Template 1
+    - Template 2
+    - ...
+  - E-commerce Templates
+    - Template 3
+    - Template 4
+    - ...
+  - Blog Templates
+    - Template 5
+    - Template 6
+    - ...
+  - Landing Page Templates
+    - Template 7
+    - Template 8
+    - ...
+  - Business Templates
+    - Template 9
+    - Template 10
+    - ...
+  - Personal Website Templates
+    - Template 11
+    - Template 12
+    - ...
+  - Creative Templates
+    - Template 13
+    - Template 14
+    - ...
+  - Corporate Templates
+    - Template 15
+    - Template 16
+    - ...
+  - One-Page Templates
+    - Template 17
+    - Template 18
+    - ...
+  - Photography Templates
+    - Template 19
+    - Template 20
+    - ...
+
+- Features
+  - Responsive Design
+  - Customization Options
+  - Code Access
+
+- Resources
+  - Tutorials and Guides
+  - Customer Reviews and Testimonials
+
+- Contact Us
+- About Us
+- FAQ
+- Blog
+- Account
+  - Sign In
+  - Sign Up
+  - My Purchases
+  - Settings
+
  
