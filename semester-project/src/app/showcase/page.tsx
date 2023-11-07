@@ -1,9 +1,7 @@
-function Showcase() {
-    return (
-        <main className="flex justify-center text-4xl ">
-            <h1>Showcase page</h1>
-        </main>
-    )
+export default function Showcase() {
+  return (
+    <main className="flex min-h-screen flex-col items-center justify-between p-10">
+      <h1 className="text-3xl font-bold">Showcase Page</h1>
+    </main>
+  );
 }
-
-export default Showcase;
